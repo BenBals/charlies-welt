@@ -84,6 +84,13 @@ nav ul {
 nav ul li {
   display: inline; }
 
+nav ul li a {
+  color: #FFF;
+  text-decoration: none; }
+  nav ul li a:visited {
+    color: #FFF;
+    text-decoration: none; }
+
 section {
   margin: 10px 3px;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
