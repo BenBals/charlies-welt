@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charlies Welt</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 08 Feb 2015 18:00:30 +0000</pubDate>
+    <lastBuildDate>Sun, 08 Feb 2015 18:00:30 +0000</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Hallo ich bin Lotti</title>
+        <description>&lt;p&gt;Hallo mein Name ist Charlotte.  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, saepe, harum ut minus, modi omnis iste quae recusandae repellendus sint consequuntur ex iusto, quam culpa qui id sequi assumenda neque.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae, libero voluptates recusandae error adipisci, harum. Id dignissimos commodi, laborum, impedit recusandae qui temporibus, a consectetur et quos sequi magni doloremque.&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni laboriosam possimus, laborum eligendi culpa. Ullam amet cum molestias, natus dolore labore quia, sed numquam recusandae, quasi ducimus repellat illo eaque?&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2015/02/01/hallo-ich-bin-lotti.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/02/01/hallo-ich-bin-lotti.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>My first post</title>
+        <description>&lt;p&gt;Dies ist mein 2. &lt;i class=&quot;icons8-like-2&quot;&gt;&lt;/i&gt; Post&lt;/p&gt;
+</description>
+        <pubDate>Fri, 02 Jan 2015 00:00:00 +0000</pubDate>
+        <link>http://yourdomain.com/2015/01/02/mein-erster-post.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/2015/01/02/mein-erster-post.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

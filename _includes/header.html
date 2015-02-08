@@ -1,0 +1,22 @@
+<header class="site-header">
+
+  <div class="wrapper">
+
+    <img src="/assets/images/hero.png" alt="" class="hero"/>
+      <nav>
+        <ul>
+          <li><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></li>
+          {% for page in site.pages %}
+            {% if page.title %}
+            <i class="icon icons8-like-2"></i>
+            <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </nav>
+
+    </nav>
+
+  </div>
+
+</header>
