@@ -117,3 +117,13 @@ section.post a {
 
 #disqus_thread {
   margin-top: 40px; }
+
+@media (max-width: 600px) {
+  .content {
+    width: 90%; } }
+.collage-1-2 > img {
+  width: 50%; }
+
+@media (max-width: 600px) {
+  .collage-1-2 > img {
+    width: 100%; } }
