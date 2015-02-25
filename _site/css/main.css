@@ -65,7 +65,7 @@ body {
   color: #FFDEDE; }
 
 .content {
-  width: 50%;
+  width: 67%;
   margin: 0 auto;
   padding: 20px;
   background-color: #FFF; }
@@ -125,20 +125,28 @@ section.post a {
   width: 49%;
   text-align: center;
   margin: 0px;
-  padding: 0px; }
+  padding: 0px;
+  display: inline; }
 
 .collage-1-2 {
   padding: 0px;
-  margin: 0px; }
+  margin: 0px auto; }
 
 img {
   width: 99%; }
 
-@media (min-width: 601) {
-  .img-small {
+@media (min-width: 1000px) {
+  img {
+    display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 75%; } }
+    width: 75%; }
+
+  .collage-1-2 {
+    width: 75%; }
+
+  .content {
+    width: 50%; } }
 @media (max-width: 600px) {
   .collage-1-2 > img {
     width: 100%; } }
