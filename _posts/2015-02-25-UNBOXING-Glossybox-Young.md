@@ -3,16 +3,16 @@ title: UNBOXING Glossy Box Young
 ---
 Hello ihr da draußen.
 Ich habe euch ja gesagt, dass es auf meinem Blog größtenteils um Beauty gehen wird und deswegen fangen wir auch mal direkt mit einem Unboxing an. Einem Unboxing der Glossybox Young. Die kommt ja alle 2 Monate und diese ist die Februar Edition. Viel Spaß
-Die Gesamte Box ist 19,16€ wert. So ganz überzeugt hat sie mich diesen Monat aber nicht, trotzdem möchte ich sie euch einfach mal zeigen.
+Die Gesamte Box ist 19,16€ wert. An sich ist das schon mal ganz gut, weil man sie für nur 10€ bestellen kann. So ganz überzeugt hat sie mich diesen Monat aber nicht, trotzdem möchte ich sie euch einfach mal zeigen.
 
 Also.. So kam sie bei mir an. Diesen Monat ist sie von außen in einem hellen grün gehalten und das kleine Säckchen ist rosa. Passend zum bald anstehenden Frühlingsanfang.
 
 <div class="collage-1-2">
-  <img src="/assets/images/glossy-2/4.JPG">
   <img src="/assets/images/glossy-2/5.JPG">
+  <img src="/assets/images/glossy-2/4.JPG">
 </div>
 
-<img src="/assets/images/glossy-2/7.JPG" width="100%">
+<img src="/assets/images/glossy-2/7.jpg" width="100%">
 
 Das erste Produkt ist der 4LK Lipstick in Pure Red. Seine Konsistenz ist mehr wie ein Lipbalm wie ich finde, trotzdem ist er aber sehr deckend. Die Verpackung kommt mir etwas billig vor, außerdem kenne ich die Marke auch nicht. Ich kann auch nicht wirklich glauben, dass er wirklich 8€ kostet. Für mich ist das also leider ein Flop Produkt, da ich solche Farben auch nur selten auf den Lippen trage.
 7,90€
@@ -28,7 +28,7 @@ Als zweites waren in der Box zwei bebe Young Care Labellos. Sie sind in der Gesc
 Das dritte Produkt aus der Glossybox Young war ein Rougepinsel von Glossybox. Er soll knapp 5€ kosten. Ich bin allerdings der Meinung, dass er dieses Geld nicht wert ist. Der Pinsel sieht nicht wirklich hochwertig aus und die Haare vorne sind auch nicht besonders weich.
 4,99€
 
-<img src="/assets/images/glossy-2/6.JPG" width="100%">
+<img src="/assets/images/glossy-2/6.jpg" width="100%">
 
 Dann waren da noch die Essence pure skin 4in1 anti-spot cleansing pads drin. Bei denen bin ich sehr gespannt wie sie sein werden, da ich noch kein Produkt dieser Reihe hatte.
 2,49€
