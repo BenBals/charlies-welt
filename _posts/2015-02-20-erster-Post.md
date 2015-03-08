@@ -1,7 +1,7 @@
 ---
-title: Hey..
+title: Heii..
 ---
-Hallo ihr Lieben.
+Heii
 Dies ist mein erster Blogpost und damit ihr mich einbisschen besser kennenlernt, dachte ich mir, dass ich euch heute mal 10 Fakten über mich aufschreibe. Viel Spaß
 
 1. Ich heiße Charlie

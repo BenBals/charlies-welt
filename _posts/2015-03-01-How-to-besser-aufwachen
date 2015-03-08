@@ -1,7 +1,8 @@
 ---
 title: How to: Besser aufwachen
 ---
-Hey ihr. Heute habe ich mein erstes "How to" für euch. Es geht darum, wie man besser aufwacht. Also, fangen wir mal an :)
+Heii
+Heute habe ich mein erstes "How to" für euch. Es geht darum, wie man besser aufwacht. Also, fangen wir mal an :)
 
 1.Stell dir einen Wecker. Durch ihn wird man besser wach, als durch eine Person
 2.Leg ihn ans andere Ende des Zimmers bzw. so das du wenigstens aufstehen musst

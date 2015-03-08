@@ -1,7 +1,7 @@
 ---
 title: UNBOXING Glossy Box Young
 ---
-Hello ihr da draußen.
+Heii
 Ich habe euch ja gesagt, dass es auf meinem Blog größtenteils um Beauty gehen wird und deswegen fangen wir auch mal direkt mit einem Unboxing an. Einem Unboxing der Glossybox Young. Die kommt ja alle 2 Monate und diese ist die Februar Edition. Viel Spaß
 Die Gesamte Box ist 19,16€ wert. An sich ist das schon mal ganz gut, weil man sie für nur 10€ bestellen kann. So ganz überzeugt hat sie mich diesen Monat aber nicht, trotzdem möchte ich sie euch einfach mal zeigen.
 
