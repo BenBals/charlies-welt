@@ -1,5 +1,5 @@
 ---
-title: Review: Astor Lip Butter
+title: REVIEW Astor Lip Butter
 ---
 Heii
 Ihr kennt vielleicht die "Astor Soft Sensation Lip Color Butters". Eine Zeit lang waren die ja mal total gehypt. Jaa. Auch ich konnte nicht wiederstehen und habe sie mir gekauft.
