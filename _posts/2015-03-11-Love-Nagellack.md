@@ -10,7 +10,7 @@ Heute zeige ich euch meinen Lieblingsnagellack...
   <img src="/assets/images/EssieChinchilly/2.JPG">
 </div>
 
-Marke: Essie 
+Marke: Essie
 Name: chinchilly -> heller braun/grau Ton
 Deckkraft: 1 Schicht
 Auftrag: gut
