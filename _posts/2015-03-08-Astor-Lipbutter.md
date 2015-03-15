@@ -21,4 +21,7 @@ Konsistenz: Die Lip Butter ist relativ weich und angenehm auf den Lippen, somit 
 Preis: 5,85€
 
 Fazit: Ich mag die Lip Butter sehr gerne und kaufe mir auf jeden Fall noch ein paar aus der Reihe. Meiner Meinung nach sind sie aber nichts für euch wenn ihr lieber Lippenstifte als Lipglosse mögt, da die Intensität auf den Lippen wirklich nicht sehr stark ist.
+
+<i class="icons8-like-2"></i> <i class="icons8-like-2"></i> <i class="icons8-like-2"></i> <i class="icons8-like-2"></i> <i class="icons8-like-2"></i>
+
 Charlie <i class="icons8-like"></i>
