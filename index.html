@@ -6,11 +6,15 @@ layout: default
 
   {% for post in site.posts %}
     <section class="post">
-      <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="date">
+        {{ post.date | date: "%b" }}
+        <br>
+        {{ post.date | date: "%-d" }}
+      </span>
        <h1>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h1>
-      {{ post.excerpt }}
+      <span>{{ post.excerpt }}</span>
       <a href="{{ post.url | prepend: site.baseurl }}">weiter...</a>
     </section>
   {% endfor %}

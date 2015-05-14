@@ -2,20 +2,30 @@
 
   <div class="wrapper">
 
-    <img src="/assets/images/hero.png" alt="" class="hero"/>
-      <nav>
-        <ul>
-          <li><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></li>
-          {% for page in site.pages %}
-            {% if page.title %}
-            <i class="icon icons8-like-2"></i>
-            <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
+    <div class="headerLineDiv">
+      <i class="icon icons8-like iconHeader" style="background-color: white; position: relative; top: -0.6em;"></i>
+    </div>
 
+
+    <h1 class="titleHeadline">
+      <a href="/" class="noAStyle">
+        <span class="dancingScript">Charlies</span>
+        <span class="amaticSC">WELT</span>
+      </a>
+    </h1>
+
+    <nav>
+      <ul>
+        <li><a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a></li>
+        {% for page in site.pages %}
+          {% if page.title %}
+          <span>|</span>
+          <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
     </nav>
+
 
   </div>
 
